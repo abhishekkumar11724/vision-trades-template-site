@@ -109,23 +109,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://www.Vision Trades.com/content/",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "https://www.Vision Trades.com/how-it-works/",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "https://www.Vision Trades.com/create/",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://www.Vision Trades.com/explore/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://www.Vision Trades.com/terms-and-services/",
       },
     ],
   },
@@ -134,23 +134,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://www.Vision Trades.com/help-center/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://www.Vision Trades.com/partners/",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://www.Vision Trades.com/suggestions/",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://www.Vision Trades.com/blog/",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://www.Vision Trades.com/newsletters/",
       },
     ],
   },
@@ -159,11 +159,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://www.Vision Trades.com/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://www.Vision Trades.com/become-a-partner/",
       },
     ],
   },
